@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/foush/code/project/json/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/jsoncpp.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/jsoncpp.dir/main.cpp.obj -c C:/Users/foush/code/project/json/main.cpp",
+  "file": "C:/Users/foush/code/project/json/main.cpp",
+  "output": "CMakeFiles/jsoncpp.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/json/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/jsoncpp.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/jsoncpp.dir/src/Value.cpp.obj -c C:/Users/foush/code/project/json/src/Value.cpp",
+  "file": "C:/Users/foush/code/project/json/src/Value.cpp",
+  "output": "CMakeFiles/jsoncpp.dir/src/Value.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/json/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/jsoncpp.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/jsoncpp.dir/src/Parser.cpp.obj -c C:/Users/foush/code/project/json/src/Parser.cpp",
+  "file": "C:/Users/foush/code/project/json/src/Parser.cpp",
+  "output": "CMakeFiles/jsoncpp.dir/src/Parser.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/json/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/jsoncpp.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/jsoncpp.dir/src/Reader.cpp.obj -c C:/Users/foush/code/project/json/src/Reader.cpp",
+  "file": "C:/Users/foush/code/project/json/src/Reader.cpp",
+  "output": "CMakeFiles/jsoncpp.dir/src/Reader.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/json/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/jsoncpp.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/jsoncpp.dir/src/Config.cpp.obj -c C:/Users/foush/code/project/json/src/Config.cpp",
+  "file": "C:/Users/foush/code/project/json/src/Config.cpp",
+  "output": "CMakeFiles/jsoncpp.dir/src/Config.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/json/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/jsoncpp.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/jsoncpp.dir/src/ValueIter.cpp.obj -c C:/Users/foush/code/project/json/src/ValueIter.cpp",
+  "file": "C:/Users/foush/code/project/json/src/ValueIter.cpp",
+  "output": "CMakeFiles/jsoncpp.dir/src/ValueIter.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/json/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/jsoncpp.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/jsoncpp.dir/src/ValueAlgorithm.cpp.obj -c C:/Users/foush/code/project/json/src/ValueAlgorithm.cpp",
+  "file": "C:/Users/foush/code/project/json/src/ValueAlgorithm.cpp",
+  "output": "CMakeFiles/jsoncpp.dir/src/ValueAlgorithm.cpp.obj"
+}
+]
